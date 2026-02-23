@@ -273,8 +273,7 @@ Step-by-step animated visualization of the Longest Common Subsequence algorithm 
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mouazkass&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mouazkass&theme=github-dark-blue&hide_border=true&background=0d1117" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=mouazkass&theme=github-dark-blue&hide_border=true&background=0d1117" width="52%" />
 </div>
 
 <div align="center">
