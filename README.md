@@ -35,7 +35,7 @@ Designing a framework that integrates the **OM2M IoT middleware** with the **Sui
 <td width="50%" valign="top">
 
 ### 🕶️ Privacy of Meta Quest Devices
-> *Research Assistant — VR vs Android telemetry & data exposure*
+> *Research Assistant under Dr. Reham Aburas — VR vs Android telemetry & data exposure*
 
 Investigating privacy implications of Meta Quest 3/3S headsets through rooted device analysis, network traffic interception (mitmproxy, Frida, tcpdump), and SSL pinning bypass. Analyzing telemetry data, room boundary leaks, and eye/hand tracking metadata collection.
 
